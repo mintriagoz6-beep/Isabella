@@ -1,4 +1,3 @@
-# ...existing code...
 from typing import List, Tuple
 
 Matrix2x2 = List[List[float]]
